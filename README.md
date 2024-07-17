@@ -22,7 +22,7 @@
 </div></br>
 
 🌱 Atualmente, estou aprendendo e aprimorando minhas habilidades em:
-Desenvolvimento FrontEnd com ReactJS
+Desenvolvimento FrontEnd com ReactJS, Angular
 Construção de aplicações móveis com React Native
 Utilização eficiente do Tailwind CSS para estilos modernos
 Explorando as possibilidades do MongoDB para gerenciar dados<br/><br/>
